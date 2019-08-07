@@ -1,0 +1,8 @@
+<?
+$MESS["OASIS_IMPORTER_API_KEY"] = "API-key from Oasiscatalog.com";
+$MESS["OASIS_IMPORTER_PRICE_FACTOR"] = "Price factor";
+$MESS["OASIS_IMPORTER_WAREHOUSE"] = "Stock from warehouse";
+$MESS["OASIS_IMPORTER_WAREHOUSE_ALL"] = "All warehouses";
+$MESS["OASIS_IMPORTER_WAREHOUSE_MSK"] = "Moscow";
+$MESS["OASIS_IMPORTER_WAREHOUSE_REMOTE"] = "Remote";
+
